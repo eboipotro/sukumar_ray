@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94316065"
-     inkscape:cx="167.22755"
-     inkscape:cy="440.79516"
+     inkscape:zoom="1.3338306"
+     inkscape:cx="-240.57275"
+     inkscape:cy="604.46507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -53,33 +53,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       sodipodi:linespacing="125%"
-       id="text3465"
-       y="397.67404"
-       x="-500.12845"
-       style="font-style:normal;font-weight:normal;font-size:20.99126053px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4518"
-         style="fill:#ffffff"
-         y="397.67404"
-         x="-500.12845"
-         sodipodi:role="line">রবীন্দ্রনাথ ঠাকুর</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3461-3"
-       y="21.841305"
-       x="-286.78052"
-       style="font-style:normal;font-weight:normal;font-size:49.09604263px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/meghnaad/cover.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         style="font-size:42.16585159px;fill:#ffffff"
-         y="21.841305"
-         x="-286.78052"
-         id="tspan3463-1"
-         sodipodi:role="line">সমূহ</tspan></text>
     <g
        id="g4212">
       <g
@@ -144,14 +117,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="274.60858"
-       y="425.74573"
+       x="116.60858"
+       y="417.74573"
        id="text4224"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4226"
-         x="274.60858"
-         y="425.74573"
-         style="fill:#ffffff">বিবিধ</tspan></text>
+         x="116.60858"
+         y="417.74573"
+         style="fill:#ffffff">আবোল তাবোল</tspan></text>
   </g>
 </svg>
