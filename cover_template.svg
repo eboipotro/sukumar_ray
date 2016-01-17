@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3338306"
-     inkscape:cx="-240.57275"
-     inkscape:cy="604.46507"
+     inkscape:zoom="0.94316066"
+     inkscape:cx="257.23018"
+     inkscape:cy="455.58371"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -117,7 +117,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="116.60858"
+       x="368.17108"
        y="417.74573"
        id="text4224"
        sodipodi:linespacing="125%"><tspan
@@ -125,6 +125,6 @@
          id="tspan4226"
          x="116.60858"
          y="417.74573"
-         style="fill:#ffffff">আবোল তাবোল</tspan></text>
+         style="fill:#ffffff;text-anchor:end;text-align:end">আবোল তাবোল</tspan></text>
   </g>
 </svg>
